@@ -1,0 +1,23 @@
+.gallery {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 24px;
+    align-items: center;
+    justify-content: center;
+}
+.gallery-item {
+    
+}
+
+.gallery-image {
+    width: 360px;
+    height: 200px;
+    display: block;
+    /* transition: width 0.3s ease;
+    transition: height 0.3s ease; */
+}
+
+.gallery-link {
+    display: block;
+}
+  
